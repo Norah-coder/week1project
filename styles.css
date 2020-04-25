@@ -1,13 +1,15 @@
 *{
-  background-color: black;
+  background-color:black;
 }
 .card1{
   text-align: center;
-  padding: 20px;
-  float: bottom-center;
+  padding: 60px;
+  float: center;
   display: block;
   background-position: center;
-
+}
+h1{
+  color:blue;
 }
 h2{
   text-align: center;
@@ -24,5 +26,9 @@ p{
   background-color:black;
   margin-top: 10px;
   float: bottom;
-  color: #fff;
+  color:blue;
+}
+body{
+  font-family: 'Lucida Sans', sans-serif;
+  color: white;
 }
