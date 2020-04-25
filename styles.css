@@ -1,17 +1,28 @@
-.footer {
-    padding: 20px;
-    text-align:center;
-    background-color:#333;
-    margin-top: 10px;
-    float: inline-end-centre;
-    color: #fff;
-
-  }
+*{
+  background-color: black;
+}
 .card1{
   text-align: center;
   padding: 20px;
-  float: inline-center;
+  float: bottom-center;
   display: block;
   background-position: center;
 
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.footer {
+  padding: 20px;
+  text-align:center;
+  background-color:black;
+  margin-top: 10px;
+  float: bottom;
+  color: #fff;
 }
