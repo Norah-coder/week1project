@@ -24,8 +24,8 @@ p{
 .footer {
   padding: 20px;
   text-align:center;
-  background-color:white;
-  margin-top: 20px;
+  background-color:black;
+  margin-top: 10px;
   float: bottom;
   color:blue;
 }
