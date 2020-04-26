@@ -2,9 +2,9 @@
   background-color:black;
 }
 .box1{
-  text-align: justify;
+  text-align: center;
   padding: 60px;
-  float: right;
+  float: center;
   display: block;
   background-position: center;
 }
