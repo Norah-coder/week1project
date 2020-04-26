@@ -9,7 +9,7 @@
   background-position: center;
 }
 h1{
-  color:pink;
+  color:blue;
 }
 h2{
   text-align: center;
@@ -31,5 +31,5 @@ p{
 }
 body{
   font-family: 'Lucida Sans', sans-serif;
-  color:black;
+  color:white;
 }
